@@ -119,10 +119,10 @@ po-bread-store-management-db/
 │   └── sample_data.sql   # Sample data & test queries
 │
 ├── diagrams/
-│   └── er-diagram.png
+│   └── er-diagram.jpeg
 │
 └── docs/
-    └── assignment.pdf
+    └── Pơ Bread.pdf
 ```
 
 ---
